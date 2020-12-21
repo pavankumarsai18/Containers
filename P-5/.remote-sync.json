@@ -1,0 +1,19 @@
+{
+  "logger": {
+    "title": "Remote Sync"
+  },
+  "uploadOnSave": true,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "linprog.cs.fsu.edu",
+  "port": "22",
+  "target": "/home/majors/vadrevu/COP4530",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "vadrevu",
+  "password": "P#3141596252818e",
+  "watch": [],
+  "transport": "scp"
+}
