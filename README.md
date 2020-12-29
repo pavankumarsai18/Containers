@@ -10,7 +10,11 @@
 * Technologies Used
 
 ## How to use this
-To run this library it is enough to download the src floder and run the makefile. This implementation includes implementation of different datastructures from sratch. 
+To run these programs please implement the following steps
+1. Download the project
+2. Open the src file
+3. Choose which DataStructure you would like to run
+4. 
 
 ## Vector
 ![VectorImage](/pics/vector.png)
@@ -54,7 +58,7 @@ O(n)
 O(1)
 
 ## Priority Queue
-![PriorityQueueImage](/pics/priorityqueue.png)
+![PriorityQueueImage](/pics/PQ.png)
 * Insert
 O(log(n))
 * Search 
