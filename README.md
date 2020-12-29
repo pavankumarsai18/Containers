@@ -14,8 +14,8 @@ To run these programs please implement the following steps
 1. Download the project
 2. Open the src file
 3. Choose which DataStructure you would like to run
-4. And run the following command
-	"make"
+4. And run the following command  
+	**make**
 
 ## Vector
 ![VectorImage](/pics/vector.png)
