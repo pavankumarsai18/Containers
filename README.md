@@ -85,3 +85,5 @@ O(1)
 O(1)
 * Delete
 O(1)
+
+## NOTE : Images have been taken from the internet
