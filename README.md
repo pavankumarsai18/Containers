@@ -6,7 +6,6 @@
 * Deque
 * Tree
 * Priority Queue
-* Heap
 * Technologies Used
 
 ## How to use this
